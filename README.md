@@ -8,7 +8,7 @@
 - 🌱 **Estudiando actualmente:** Cloud Security (AWS/Azure) & OWASP Top 10 para IA/LLMs
 - 💬 **Hablemos sobre:** Ingeniería de Computación, Redes (TCP/IP), Python & Linux[cite: 1]
 - ⚡ **Dato curioso:** Dedico 3 horas diarias a aprender sobre cómo romper y asegurar sistemas de forma ética.
-- 
+  
 🇬🇧
 - 🔭 **Currently learning:** Cybersecurity Fundamentals, Scripting & Linux Hardening
 - 👯 **Looking to collaborate on:** Open Source Security Projects, Python/Bash scripts, and CTFs
@@ -17,13 +17,16 @@
 - 💬 **Ask me about:** Computer Engineering, Networking (TCP/IP), Python & Linux
 - ⚡ **Fun fact:** I spend 3 hours daily learning how to ethically break and secure systems.[](url)# 
 
+
 🎯 Roadmap 2026 - 2028 | Cybersecurity & Ethical Hacking
 
 - [x] **Fase 1: Fundamentos** (Linux, Redes TCP/IP, Arquitectura de SO)
 - [ ] **Fase 2: Sistemas Centrales** (Scripting, APIs, Cloud Security AWS/Azure, Criptografía)
 - [ ] **Fase 3: Especialización** (Active Directory, Web Hacking, Security for LLMs/AI, Forense)
 
+
 🏆 **Certificaciones en Meta:** `ISC2 CC` ➔ `CompTIA SecAI+` ➔ `PNPT / OSCP+`
+
 
 
 💻 Tech Stack:
@@ -32,9 +35,9 @@
 ```bash
 [SYSTEM_OVERRIDE // ARCHIVE_QUOTE_AGENT_SMITH]
 ===================================================================================
-"Caprichos de la percepción, los insignificantes intentos del pobre 
+«Caprichos de la percepción, los insignificantes intentos del pobre 
 intelecto humano intentando desesperadamente justificar una existencia 
 que no tiene sentido o propósito alguno. Todos los que cree conocer tan 
-artificiales como Matrix en sí misma."
+artificiales como Matrix en sí misma».
 ===================================================================================
 -- AGENT SMITH // THE MATRIX
